@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="40" y="50" font-family="Arial, Helvetica, sans-serif" font-size="24px" font-weight="700" fill="#f0f6fc" text-anchor="start">prakash0604&apos;s GitHub</text>
+<text x="40" y="77" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="400" fill="#8b949e" text-anchor="start">GitHub activity and development stack</text>
+<rect x="40" y="105" width="155" height="82" rx="8" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+<text x="55" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" fill="#8b949e" text-anchor="start">Repositories</text>
+<text x="55" y="162" font-family="Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" fill="#f0f6fc" text-anchor="start">25</text>
+<rect x="210" y="105" width="155" height="82" rx="8" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+<text x="225" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" fill="#8b949e" text-anchor="start">Followers</text>
+<text x="225" y="162" font-family="Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" fill="#f0f6fc" text-anchor="start">1</text>
+<rect x="380" y="105" width="155" height="82" rx="8" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+<text x="395" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" fill="#8b949e" text-anchor="start">Stars</text>
+<text x="395" y="162" font-family="Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" fill="#f0f6fc" text-anchor="start">0</text>
+<rect x="550" y="105" width="155" height="82" rx="8" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+<text x="565" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" fill="#8b949e" text-anchor="start">Forks</text>
+<text x="565" y="162" font-family="Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" fill="#f0f6fc" text-anchor="start">0</text>
+<rect x="720" y="105" width="155" height="82" rx="8" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+<text x="735" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" fill="#8b949e" text-anchor="start">Contributions</text>
+<text x="735" y="162" font-family="Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" fill="#f0f6fc" text-anchor="start">127</text>
+<text x="40" y="235" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="700" fill="#f0f6fc" text-anchor="start">Primary Stack</text>
+<text x="40" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" fill="#8b949e" text-anchor="start">Technologies I mainly work with</text>
+<text x="40" y="290" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="600" fill="#f0f6fc" text-anchor="start">PHP</text>
+<rect x="145" y="278" width="600" height="10" rx="5" fill="#21262d"/>
+<rect x="145" y="278" width="520.0" height="10" rx="5" fill="#58a6ff"/>
+<text x="40" y="322" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="600" fill="#f0f6fc" text-anchor="start">Laravel</text>
+<rect x="145" y="310" width="600" height="10" rx="5" fill="#21262d"/>
+<rect x="145" y="310" width="478.40000000000003" height="10" rx="5" fill="#58a6ff"/>
+<text x="40" y="354" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="600" fill="#f0f6fc" text-anchor="start">JavaScript</text>
+<rect x="145" y="342" width="600" height="10" rx="5" fill="#21262d"/>
+<rect x="145" y="342" width="364.0" height="10" rx="5" fill="#58a6ff"/>
+<text x="40" y="386" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="600" fill="#f0f6fc" text-anchor="start">jQuery</text>
+<rect x="145" y="374" width="600" height="10" rx="5" fill="#21262d"/>
+<rect x="145" y="374" width="332.8" height="10" rx="5" fill="#58a6ff"/>
+<text x="40" y="418" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="600" fill="#f0f6fc" text-anchor="start">MySQL</text>
+<rect x="145" y="406" width="600" height="10" rx="5" fill="#21262d"/>
+<rect x="145" y="406" width="286.0" height="10" rx="5" fill="#58a6ff"/>
+<text x="40" y="450" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="600" fill="#f0f6fc" text-anchor="start">PostgreSQL</text>
+<rect x="145" y="438" width="600" height="10" rx="5" fill="#21262d"/>
+<rect x="145" y="438" width="249.60000000000002" height="10" rx="5" fill="#58a6ff"/>
+<text x="40" y="490" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" fill="#8b949e" text-anchor="start">Languages detected in repositories:</text>
+<text x="250" y="490" font-family="Arial, Helvetica, sans-serif" font-size="11px" font-weight="400" fill="#8b949e" text-anchor="start">JavaScript, CSS, PHP, Blade, HTML, SCSS</text>
+</svg>
