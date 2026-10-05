@@ -16,7 +16,7 @@
 <text x="565" y="162" font-family="Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" fill="#f0f6fc" text-anchor="start">0</text>
 <rect x="720" y="105" width="155" height="82" rx="8" fill="#21262d" stroke="#30363d" stroke-width="1"/>
 <text x="735" y="132" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" fill="#8b949e" text-anchor="start">Contributions</text>
-<text x="735" y="162" font-family="Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" fill="#f0f6fc" text-anchor="start">128</text>
+<text x="735" y="162" font-family="Arial, Helvetica, sans-serif" font-size="23px" font-weight="700" fill="#f0f6fc" text-anchor="start">124</text>
 <text x="40" y="235" font-family="Arial, Helvetica, sans-serif" font-size="18px" font-weight="700" fill="#f0f6fc" text-anchor="start">Primary Stack</text>
 <text x="40" y="258" font-family="Arial, Helvetica, sans-serif" font-size="12px" font-weight="400" fill="#8b949e" text-anchor="start">Technologies I mainly work with</text>
 <text x="40" y="290" font-family="Arial, Helvetica, sans-serif" font-size="13px" font-weight="600" fill="#f0f6fc" text-anchor="start">PHP</text>
